@@ -27,18 +27,6 @@ function gotMessage(message, sender, sendResponse) {
     chat()
 }
 
-// Aluno,Número,Turma
-// Videos Pingo de Gente,Pedro Matheus dos Santos Souza 41 3D,10:02
-// ,Pedro Matheus,Teste 2 42 1A,10:02
-
-
-
-
-
-
-
-
-
                 
 // YTbUzc quem comentou - 
 // MuzmKe hora que comentou - 
