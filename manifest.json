@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Frequência - Meet",
     "description": "Faz a frequência automática de quem está on-line",
-    "version": "7.2",
+    "version": "1.0",
     "content_scripts":[
         {
             "matches": ["https://meet.google.com/*"],
